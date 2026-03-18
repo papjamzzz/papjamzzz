@@ -35,7 +35,7 @@ Twin daughters. Twelve years old. Everything else follows from that.
 
 ## What I Build
 
-Everything I build runs on a simple philosophy: **the interface should feel like an instrument.** Not a form. Not a dashboard. An instrument — something you pick up and immediately know how to play, something that rewards precision and gives you control without requiring you to read a manual.
+Everything I build runs on a simple philosophy: **the interface should feel like an machine.** Not a form. Not a dashboard. An machine — something you pick up and immediately know how to play, something that rewards precision and gives you control without requiring you to read a manual.
 
 That's Creative Konsoles.
 
@@ -90,8 +90,6 @@ Dark themes. Hardware aesthetics. No external frameworks. Always localhost first
 The fader is a perfect piece of technology. It has one job. It does it with total precision. You know exactly where you are at every moment and exactly how to get somewhere else. Every tool I build is trying to be that.
 
 Music and basketball taught me the same thing: **systems reward the people who understand them before everyone else does.** Math is underneath both. So is instinct. The best developers, like the best players and the best producers, are the ones who have internalized the system so completely that they're no longer thinking about it — they're just moving.
-
-That's what I'm building toward.
 
 ---
 
