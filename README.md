@@ -35,7 +35,7 @@ Twin daughters. Twelve years old. Everything else follows from that.
 
 ## What I Build
 
-Everything I build runs on a simple philosophy: **the interface should feel like an machine.** Not a form. Not a dashboard. An machine — something you pick up and immediately know how to play, something that rewards precision and gives you control without requiring you to read a manual.
+Everything I build runs on a simple philosophy: **the interface should feel like a machine.** Not a form. Not a dashboard. A machine — something you pick up and immediately know how to play, something that rewards precision and gives you control without requiring you to read a manual.
 
 That's Creative Konsoles.
 
@@ -46,6 +46,9 @@ That's Creative Konsoles.
 <table>
 <tr>
 <td width="50%" valign="top">
+
+**🌐 [5of8eyes — AI Synthesis Consortium](https://github.com/papjamzzz/The-5i-Consortium)**
+Run one prompt through 5 AI models simultaneously — Claude, GPT-4, Gemini, Mistral, Grok. Each model builds on the last. One synthesized output at the end. Hardware mixing board aesthetic. Built for developers.
 
 **🎛 [Kode Keeper](https://github.com/papjamzzz/kodekeeper)**
 Claude Code mission control. Context oscilloscope, usage VU meters, cost tracker, live project patch bay. The control room for AI-assisted development.
@@ -77,8 +80,9 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 ## Stack
 
 ```
-Python · Flask · Vanilla JS · Claude AI · Kalshi API
-Ableton Live · PyQt6 · Twilio · macOS
+Python · Flask · Vanilla JS · Next.js · TypeScript
+Claude AI · OpenAI · Gemini · Kalshi API
+Ableton Live · PyQt6 · macOS
 ```
 
 Dark themes. Hardware aesthetics. No external frameworks. Always localhost first.
@@ -95,6 +99,6 @@ Music and basketball taught me the same thing: **systems reward the people who u
 
 <div align="center">
 
-**Creative Konsoles** &nbsp;·&nbsp; Always building &nbsp;·&nbsp; [@papjamzzz](https://github.com/papjamzzz)
+**Creative Konsoles** &nbsp;·&nbsp; Always building &nbsp;·&nbsp; [@papjamzzz](https://github.com/papjamzzz) &nbsp;·&nbsp; [𝕏 @creativekonsole](https://x.com/creativekonsole)
 
 </div>
