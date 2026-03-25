@@ -45,10 +45,19 @@ That's Creative Konsoles.
 
 <table>
 <tr>
+<td width="100%" valign="top">
+
+### 🚀 Flagship
+
+**[5i — Five Intelligences](https://creativekonsoles.com)** &nbsp;`LIVE`
+One prompt. Five AI models simultaneously. GPT · Claude · Gemini · Grok · Mistral — running in parallel, synthesized into one unified verdict. The fastest way to know what the best AI minds agree on. Live at **creativekonsoles.com**.
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**🌐 [5of8eyes — AI Synthesis Consortium](https://github.com/papjamzzz/The-5i-Consortium)**
-Run one prompt through 5 AI models simultaneously — Claude, GPT-4, Gemini, Mistral, Grok. Each model builds on the last. One synthesized output at the end. Hardware mixing board aesthetic. Built for developers.
+### Tools
 
 **🎛 [Kode Keeper](https://github.com/papjamzzz/kodekeeper)**
 Claude Code mission control. Context oscilloscope, usage VU meters, cost tracker, live project patch bay. The control room for AI-assisted development.
@@ -61,6 +70,8 @@ Fully autonomous trading engine for Kalshi. Runs 24/7. Scans, enters, monitors, 
 
 </td>
 <td width="50%" valign="top">
+
+### &nbsp;
 
 **🎬 [StreamFader](https://github.com/papjamzzz/Stream-Fader)**
 DJ-style crossfader for streaming content. Blend critic and audience scores in real time. Find what's actually worth watching.
@@ -80,9 +91,8 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 ## Stack
 
 ```
-Python · Flask · Vanilla JS · Next.js · TypeScript
-Claude AI · OpenAI · Gemini · Kalshi API
-Ableton Live · PyQt6 · macOS
+Python · Flask · Vanilla JS · Claude AI · OpenAI · Gemini · Grok · Mistral
+Kalshi API · Ableton Live · PyQt6 · Stripe · macOS
 ```
 
 Dark themes. Hardware aesthetics. No external frameworks. Always localhost first.
