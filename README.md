@@ -102,7 +102,7 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 | Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
 | DK Konnektor | ✅ Live | *(confirm URL)* |
 | Kalshi Konnektor2 | ✅ Live | *(confirm URL)* |
-| StreamFader | *(confirm)* | *(confirm URL)* |
+| StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | TrackTracks | *(confirm)* | *(confirm URL)* |
 | DAW Doctor | *(confirm)* | *(confirm URL)* |
 
