@@ -91,6 +91,25 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 
 ---
 
+## Live URLs
+
+| Product | Status | URL |
+|---------|--------|-----|
+| 5i — Five Intelligences | ✅ Live | [creativekonsoles.com](https://creativekonsoles.com) |
+| 5i × Kalshi Edge Detector | ✅ Live | [web-production-041d1.up.railway.app/kalshi-fusion](https://web-production-041d1.up.railway.app/kalshi-fusion) |
+| EmpathyBot | ✅ Live | *(confirm URL)* |
+| KK Trader | ✅ Live | *(confirm URL)* |
+| Kode Keeper | ✅ Live | *(confirm URL)* |
+| DK Konnektor | ✅ Live | *(confirm URL)* |
+| Kalshi Konnektor2 | ✅ Live | *(confirm URL)* |
+| StreamFader | *(confirm)* | *(confirm URL)* |
+| TrackTracks | *(confirm)* | *(confirm URL)* |
+| DAW Doctor | *(confirm)* | *(confirm URL)* |
+
+*As you confirm live URLs, drop them into this table and the links above.*
+
+---
+
 ## Stack
 
 ```
