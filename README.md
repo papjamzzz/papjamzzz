@@ -47,10 +47,13 @@ That's Creative Konsoles.
 <tr>
 <td width="100%" valign="top">
 
-### 🚀 Flagship
+### 🚀 Flagships
 
 **[5i — Five Intelligences](https://creativekonsoles.com)** &nbsp;`LIVE`
 One prompt. Five AI models simultaneously. GPT · Claude · Gemini · Grok · Mistral — running in parallel, synthesized into one unified verdict. The fastest way to know what the best AI minds agree on. Live at **creativekonsoles.com**.
+
+**[5i × Kalshi — AI Edge Detector](https://web-production-041d1.up.railway.app/kalshi-fusion)** &nbsp;`LIVE`
+Five AI models analyzing live Kalshi prediction markets simultaneously. Alpha gap detection — difference between market price and AI consensus. Trade/Skip signal with confidence score. Direct order execution. Built on the 5i parallel engine, aimed at one specific problem: **find what the market has wrong.**
 
 </td>
 </tr>
