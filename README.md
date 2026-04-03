@@ -99,7 +99,7 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 | 5i × Kalshi Edge Detector | ✅ Live | [web-production-041d1.up.railway.app/kalshi-fusion](https://web-production-041d1.up.railway.app/kalshi-fusion) |
 | EmpathyBot | ✅ Live | [web-production-ac123.up.railway.app](https://web-production-ac123.up.railway.app) |
 | KK Trader | ✅ Live | *(confirm URL)* |
-| Kode Keeper | ✅ Live | *(confirm URL)* |
+| Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
 | DK Konnektor | ✅ Live | *(confirm URL)* |
 | Kalshi Konnektor2 | ✅ Live | *(confirm URL)* |
 | StreamFader | *(confirm)* | *(confirm URL)* |
