@@ -52,7 +52,7 @@ That's Creative Konsoles.
 **[5i — Five Intelligences](https://creativekonsoles.com)** &nbsp;`LIVE`
 One prompt. Five AI models simultaneously. GPT · Claude · Gemini · Grok · Mistral — running in parallel, synthesized into one unified verdict. The fastest way to know what the best AI minds agree on. Live at **creativekonsoles.com**.
 
-**[5i × Kalshi — AI Edge Detector](https://web-production-041d1.up.railway.app/kalshi-fusion)** &nbsp;`LIVE`
+**[5i × Kalshi — AI Edge Detector](https://github.com/papjamzzz/kalshi-trader)** &nbsp;`LIVE`
 Five AI models analyzing live Kalshi prediction markets simultaneously. Alpha gap detection — difference between market price and AI consensus. Trade/Skip signal with confidence score. Direct order execution. Built on the 5i parallel engine, aimed at one specific problem: **find what the market has wrong.**
 
 </td>
@@ -96,17 +96,13 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 | Product | Status | URL |
 |---------|--------|-----|
 | 5i — Five Intelligences | ✅ Live | [creativekonsoles.com](https://creativekonsoles.com) |
-| 5i × Kalshi Edge Detector | ✅ Live | [web-production-041d1.up.railway.app/kalshi-fusion](https://web-production-041d1.up.railway.app/kalshi-fusion) |
-| EmpathyBot | ✅ Live | [web-production-ac123.up.railway.app](https://web-production-ac123.up.railway.app) |
-| KK Trader | ✅ Live | *(confirm URL)* |
-| Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
-| DK Konnektor | ✅ Live | *(confirm URL)* |
-| Kalshi Konnektor2 | ✅ Live | *(confirm URL)* |
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
-| TrackTracks | *(confirm)* | *(confirm URL)* |
-| DAW Doctor | *(confirm)* | *(confirm URL)* |
-
-*As you confirm live URLs, drop them into this table and the links above.*
+| DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
+| Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
+| KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
+| Kalshi Konnektor | ✅ Live | [github.com/papjamzzz/kalshi-konnektor](https://github.com/papjamzzz/kalshi-konnektor) |
+| TrackTracks | ✅ Live | [github.com/papjamzzz/Track-Tracks](https://github.com/papjamzzz/Track-Tracks) |
+| WithYou | 🔒 Private Alpha | — |
 
 ---
 
