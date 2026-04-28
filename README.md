@@ -49,41 +49,65 @@ That's Creative Konsoles.
 
 ### 🚀 Flagships
 
-**[5i — Five Intelligences](https://creativekonsoles.com)** &nbsp;`LIVE`
-One prompt. Five AI models simultaneously. GPT · Claude · Gemini · Grok · Mistral — running in parallel, synthesized into one unified verdict. The fastest way to know what the best AI minds agree on. Live at **creativekonsoles.com**.
+**[5i — Five Intelligences](https://creativekonsoles.com)** &nbsp;`LIVE`  
+One prompt. Five AI models simultaneously. GPT · Claude · Gemini · Grok · Mistral — running in parallel, synthesized into one unified verdict. Live at **creativekonsoles.com**.
 
-**[5i × Kalshi — AI Edge Detector](https://github.com/papjamzzz/kalshi-trader)** &nbsp;`LIVE`
-Five AI models analyzing live Kalshi prediction markets simultaneously. Alpha gap detection — difference between market price and AI consensus. Trade/Skip signal with confidence score. Direct order execution. Built on the 5i parallel engine, aimed at one specific problem: **find what the market has wrong.**
+**[Grail — Biohacking Dashboard](https://grailorbital.creativekonsoles.com)** &nbsp;`LIVE`  
+40 live biomarker orbs across 4 orbital rings. AI health synthesis via GPT-4, Claude, and Gemini. Not a health app — a health engine. Live at **grailorbital.creativekonsoles.com**.
+
+**[Memoir — Voice-to-Story AI Journaling](https://memoir.creativekonsoles.com)** &nbsp;`LIVE`  
+Speak your story. AI structures, preserves, and returns it as a living document. Voice-first journaling for people who think faster than they type. Live at **memoir.creativekonsoles.com**.
+
+**[5i × Kalshi — AI Edge Detector](https://github.com/papjamzzz/kalshi-trader)** &nbsp;`LIVE`  
+Five AI models analyzing live Kalshi prediction markets simultaneously. Alpha gap detection — difference between market price and AI consensus. Direct order execution.
 
 </td>
 </tr>
 <tr>
+<td valign="top">
+
+### 🛠 Tools
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-### Tools
+**🎛 [Kode Keeper](https://github.com/papjamzzz/kodekeeper)**  
+Claude Code mission control. Context oscilloscope, usage VU meters, cost tracker, live project patch bay.
 
-**🎛 [Kode Keeper](https://github.com/papjamzzz/kodekeeper)**
-Claude Code mission control. Context oscilloscope, usage VU meters, cost tracker, live project patch bay. The control room for AI-assisted development.
+**📡 [Kalshi Konnektor](https://github.com/papjamzzz/kalshi-konnektor)**  
+Real-time edge detection for Kalshi prediction markets. Four-signal scoring engine. Guitar-pedal-style controls.
 
-**📡 [Kalshi Konnektor](https://github.com/papjamzzz/kalshi-konnektor)**
-Real-time edge detection for Kalshi prediction markets. Four-signal scoring engine. Guitar-pedal-style controls. Find what the market misses.
+**🤖 [KK Trader](https://github.com/papjamzzz/kalshi-trader)**  
+Fully autonomous trading engine for Kalshi. Runs 24/7. Scans, enters, monitors, exits — without you touching a thing.
 
-**🤖 [KK Trader](https://github.com/papjamzzz/kalshi-trader)**
-Fully autonomous trading engine for Kalshi. Runs 24/7. Scans, enters, monitors, exits — without you touching a thing. Factory without lights.
+**🔑 [Key Watcher](https://github.com/papjamzzz/key-watcher)**  
+API key health monitor. Live spend tracking, quota alerts, and status lights for every AI provider in one panel.
+
+**📦 [Check'd](https://github.com/papjamzzz/checkd)**  
+AI-vetted product discovery. Every listing verified by Claude before it goes live. Signal over noise.
 
 </td>
 <td width="50%" valign="top">
 
-### &nbsp;
+**🎬 [StreamFader](https://github.com/papjamzzz/Stream-Fader)**  
+DJ-style crossfader for streaming content. Blend critic and audience scores in real time.
 
-**🎬 [StreamFader](https://github.com/papjamzzz/Stream-Fader)**
-DJ-style crossfader for streaming content. Blend critic and audience scores in real time. Find what's actually worth watching.
+**🔊 [TrackTracks](https://github.com/papjamzzz/Track-Tracks)**  
+Per-track CPU monitor for Ableton Live. Know exactly which plugin is killing your session.
 
-**🔊 [TrackTracks](https://github.com/papjamzzz/Track-Tracks)**
-Per-track CPU monitor for Ableton Live. Stop guessing which plugin is killing your session. Know exactly which track, which device, in real time.
-
-**🩺 [DAW Doctor](https://github.com/papjamzzz/Daw-Doctor)**
+**🩺 [DAW Doctor](https://github.com/papjamzzz/Daw-Doctor)**  
 Diagnostic tool for Ableton Live producers. Scan your system, analyze your session, fix what's breaking your music.
+
+**🚗 [Me-Chanic](https://github.com/papjamzzz/me-chanic)**  
+Vehicle diagnostics and maintenance tracker. OBD-style interface — know what your car needs before it breaks.
+
+**📈 [Crypto Grid](https://github.com/papjamzzz/crypto-grid)**  
+Autonomous grid trading bot. Self-adjusting buy/sell layers, live P&L. Runs 24/7 on Railway.
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -96,12 +120,13 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 | Product | Status | URL |
 |---------|--------|-----|
 | 5i — Five Intelligences | ✅ Live | [creativekonsoles.com](https://creativekonsoles.com) |
+| Grail — Biohacking Dashboard | ✅ Live | [grailorbital.creativekonsoles.com](https://grailorbital.creativekonsoles.com) |
+| Memoir — AI Journaling | ✅ Live | [memoir.creativekonsoles.com](https://memoir.creativekonsoles.com) |
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
 | Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
+| Me-Chanic | ✅ Live | [me-chanic.vercel.app](https://me-chanic.vercel.app) |
 | KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
-| Kalshi Konnektor | ✅ Live | [github.com/papjamzzz/kalshi-konnektor](https://github.com/papjamzzz/kalshi-konnektor) |
-| TrackTracks | ✅ Live | [github.com/papjamzzz/Track-Tracks](https://github.com/papjamzzz/Track-Tracks) |
 | WithYou | 🔒 Private Alpha | — |
 
 ---
@@ -109,8 +134,8 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 ## Stack
 
 ```
-Python · Flask · Vanilla JS · Claude AI · OpenAI · Gemini · Grok · Mistral
-Kalshi API · Ableton Live · PyQt6 · Stripe · macOS
+Python · Flask · Vanilla JS · React · Claude AI · OpenAI · Gemini · Grok · Mistral
+Kalshi API · Ableton Live · PyQt6 · Railway · Vercel · macOS
 ```
 
 Dark themes. Hardware aesthetics. No external frameworks. Always localhost first.
@@ -127,6 +152,6 @@ Music and basketball taught me the same thing: **systems reward the people who u
 
 <div align="center">
 
-**Creative Konsoles** &nbsp;·&nbsp; Always building &nbsp;·&nbsp; [@papjamzzz](https://github.com/papjamzzz) &nbsp;·&nbsp; [𝕏 @creativekonsole](https://x.com/creativekonsole)
+**Creative Konsoles** &nbsp;·&nbsp; Always building &nbsp;·&nbsp; [@papjamzzz](https://github.com/papjamzzz) &nbsp;·&nbsp; [𝕏 @RealRealEyes](https://x.com/RealRealEyes)
 
 </div>
