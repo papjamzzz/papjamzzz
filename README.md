@@ -71,6 +71,12 @@ Real-time edge detection for Kalshi prediction markets. Four-signal scoring engi
 **🤖 [KK Trader](https://github.com/papjamzzz/kalshi-trader)**
 Fully autonomous trading engine for Kalshi. Runs 24/7. Scans, enters, monitors, exits — without you touching a thing. Factory without lights.
 
+**🎙 [Memoir](https://github.com/papjamzzz/memoir)**
+Voice-to-story AI journaling. Speak naturally — Claude structures it into a living, searchable life document. Privacy-first. No typing required.
+
+**🧬 [AILIV / Grail](https://github.com/papjamzzz/grail)**
+Luxury biohacking dashboard. 40 live biomarker orbs, 4 orbital rings, AI health synthesis via GPT, Claude, and Gemini.
+
 </td>
 <td width="50%" valign="top">
 
@@ -85,6 +91,12 @@ Per-track CPU monitor for Ableton Live. Stop guessing which plugin is killing yo
 **🩺 [DAW Doctor](https://github.com/papjamzzz/Daw-Doctor)**
 Diagnostic tool for Ableton Live producers. Scan your system, analyze your session, fix what's breaking your music.
 
+**💞 [WithYou](https://github.com/papjamzzz/empathybot)**
+Voice-first AI wellness companion. 12 support types — grief, trauma, anxiety, illness. CE listens, responds with empathy, speaks back.
+
+**₿ [Crypto Grid](https://github.com/papjamzzz/crypto-grid)**
+Autonomous crypto grid trading bot. Self-adjusting buy/sell ladder for BTC-USD. Runs 24/7 on Railway. Paper mode + live execution.
+
 </td>
 </tr>
 </table>
@@ -98,10 +110,13 @@ Diagnostic tool for Ableton Live producers. Scan your system, analyze your sessi
 | 5i — Five Intelligences | ✅ Live | [creativekonsoles.com](https://creativekonsoles.com) |
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
+| Memoir | ✅ Live | [memoir.creativekonsoles.com](https://memoir.creativekonsoles.com) |
 | Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
 | KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
 | Kalshi Konnektor | ✅ Live | [github.com/papjamzzz/kalshi-konnektor](https://github.com/papjamzzz/kalshi-konnektor) |
 | TrackTracks | ✅ Live | [github.com/papjamzzz/Track-Tracks](https://github.com/papjamzzz/Track-Tracks) |
+| Crypto Grid | ✅ Live | [github.com/papjamzzz/crypto-grid](https://github.com/papjamzzz/crypto-grid) |
+| AILIV / Grail | ✅ Live | [github.com/papjamzzz/grail](https://github.com/papjamzzz/grail) |
 | WithYou | 🔒 Private Alpha | — |
 
 ---
