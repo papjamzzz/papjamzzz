@@ -111,6 +111,9 @@ Voice-first AI wellness companion. 12 support types — grief, trauma, anxiety, 
 **₿ [Crypto Grid](https://github.com/papjamzzz/crypto-grid)**
 Autonomous crypto grid trading bot. Self-adjusting buy/sell ladder for BTC-USD. Runs 24/7 on Railway. Paper mode + live execution.
 
+**🎛 [Control](https://github.com/papjamzzz/control)**
+Physical MIDI control layer for Claude Code. Map a Korg nanoKONTROL2 to AI behavior in real time. Four tracks, twelve parameters — dial in how Claude thinks and acts. A DAW for AI coding agents.
+
 </td>
 </tr>
 </table>
@@ -126,7 +129,7 @@ Autonomous crypto grid trading bot. Self-adjusting buy/sell ladder for BTC-USD. 
 | Memoir — AI Journaling | ✅ Live | [memoir.creativekonsoles.com](https://memoir.creativekonsoles.com) |
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
-| Memoir | ✅ Live | [memoir.creativekonsoles.com](https://memoir.creativekonsoles.com) |
+| Control | ✅ Live | [github.com/papjamzzz/control](https://github.com/papjamzzz/control) |
 | Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
 | Me-Chanic | ✅ Live | [me-chanic.vercel.app](https://me-chanic.vercel.app) |
 | KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
@@ -141,8 +144,8 @@ Autonomous crypto grid trading bot. Self-adjusting buy/sell ladder for BTC-USD. 
 ## Stack
 
 ```
-Python · Flask · Vanilla JS · React · Claude AI · OpenAI · Gemini · Grok · Mistral
-Kalshi API · Ableton Live · PyQt6 · Railway · Vercel · macOS
+Python · Flask · Vanilla JS · React · Next.js · Claude AI · OpenAI · Gemini · Grok · Mistral
+Kalshi API · Ableton Live · MIDI · nanoKONTROL2 · Railway · Vercel · macOS
 ```
 
 Dark themes. Hardware aesthetics. No external frameworks. Always localhost first.
