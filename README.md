@@ -102,11 +102,14 @@ DJ-style crossfader for streaming content. Blend critic and audience scores in r
 **🔊 [TrackTracks](https://github.com/papjamzzz/Track-Tracks)**  
 Per-track CPU monitor for Ableton Live. Know exactly which plugin is killing your session.
 
-**🩺 [DAW Doctor](https://github.com/papjamzzz/Daw-Doctor)**  
-Diagnostic tool for Ableton Live producers. Scan your system, analyze your session, fix what's breaking your music.
+**🩺 [DAW Doctor](https://github.com/papjamzzz/producer-vault)**  
+Auto-backup for Ableton Live. Continuous diff-aware versioning, instant restore from any save point. Never lose a session.
 
 **💞 [WithYou](https://github.com/papjamzzz/empathybot)**
 Voice-first AI wellness companion. 12 support types — grief, trauma, anxiety, illness. CE listens, responds with empathy, speaks back.
+
+**⚖️ [Represented](https://github.com/papjamzzz/represented)**
+AI legal platform for self-represented litigants. Upload motions, log incidents, draft responses, research your judge. The edge preparation gives you — without a lawyer.
 
 **₿ [Crypto Grid](https://github.com/papjamzzz/crypto-grid)**
 Autonomous crypto grid trading bot. Self-adjusting buy/sell ladder for BTC-USD. Runs 24/7 on Railway. Paper mode + live execution.
@@ -130,6 +133,7 @@ Physical MIDI control layer for Claude Code. Map a Korg nanoKONTROL2 to AI behav
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
 | Control | ✅ Live | [github.com/papjamzzz/control](https://github.com/papjamzzz/control) |
+| Represented | ✅ Live | [github.com/papjamzzz/represented](https://github.com/papjamzzz/represented) |
 | Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
 | Me-Chanic | ✅ Live | [me-chanic.vercel.app](https://me-chanic.vercel.app) |
 | KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
