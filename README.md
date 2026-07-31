@@ -134,7 +134,7 @@ Physical MIDI control layer for Claude Code. Map a Korg nanoKONTROL2 to AI behav
 | DAW Doctor | ✅ Live | [github.com/papjamzzz/producer-vault](https://github.com/papjamzzz/producer-vault) |
 | Control | ✅ Live | [github.com/papjamzzz/control](https://github.com/papjamzzz/control) |
 | Represented | ✅ Live | [github.com/papjamzzz/represented](https://github.com/papjamzzz/represented) |
-| Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
+| Kode Keeper | ✅ Live | [github.com/papjamzzz/kodekeeper](https://github.com/papjamzzz/kodekeeper) |
 | Me-Chanic | ✅ Live | [me-chanic.vercel.app](https://me-chanic.vercel.app) |
 | KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
 | Kalshi Konnektor | ✅ Live | [github.com/papjamzzz/kalshi-konnektor](https://github.com/papjamzzz/kalshi-konnektor) |
