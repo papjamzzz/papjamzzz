@@ -109,7 +109,7 @@ Auto-backup for Ableton Live. Continuous diff-aware versioning, instant restore 
 Voice-first AI wellness companion. 12 support types — grief, trauma, anxiety, illness. CE listens, responds with empathy, speaks back.
 
 **⚖️ [Represented](https://github.com/papjamzzz/represented)**
-AI legal platform for self-represented litigants. Upload motions, log incidents, draft responses, research your judge. The edge preparation gives you — without a lawyer.
+AI legal platform for self-represented litigants. Upload motions, log incidents, build a case timeline, draft responses. The edge preparation gives you — without a lawyer.
 
 **₿ [Crypto Grid](https://github.com/papjamzzz/crypto-grid)**
 Autonomous crypto grid trading bot. Self-adjusting buy/sell ladder for BTC-USD. Runs 24/7 on Railway. Paper mode + live execution.
