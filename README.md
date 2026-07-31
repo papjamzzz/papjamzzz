@@ -131,7 +131,7 @@ Physical MIDI control layer for Claude Code. Map a Korg nanoKONTROL2 to AI behav
 | AILIV — Biohacking Dashboard | ✅ Live | [ailiv.health](https://ailiv.health) |
 | Memoir — AI Journaling | ✅ Live | [memoir.creativekonsoles.com](https://memoir.creativekonsoles.com) |
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
-| DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
+| DAW Doctor | ✅ Live | [github.com/papjamzzz/producer-vault](https://github.com/papjamzzz/producer-vault) |
 | Control | ✅ Live | [github.com/papjamzzz/control](https://github.com/papjamzzz/control) |
 | Represented | ✅ Live | [github.com/papjamzzz/represented](https://github.com/papjamzzz/represented) |
 | Kode Keeper | ✅ Live | [keeper.creativekonsoles.com](https://keeper.creativekonsoles.com) |
