@@ -52,8 +52,8 @@ That's Creative Konsoles.
 **[5i — Five Intelligences](https://creativekonsoles.com)** &nbsp;`LIVE`  
 One prompt. Five AI models simultaneously. GPT · Claude · Gemini · Grok · Mistral — running in parallel, synthesized into one unified verdict. Live at **creativekonsoles.com**.
 
-**[AILIV — Biohacking Dashboard](https://grailorbital.creativekonsoles.com)** &nbsp;`LIVE`  
-40 live biomarker orbs across 4 orbital rings. AI health synthesis via GPT-4, Claude, and Gemini. Not a health app — a health engine. Live at **grailorbital.creativekonsoles.com**.
+**[AILIV — Biohacking Dashboard](https://ailiv.health)** &nbsp;`LIVE`  
+40 live biomarker orbs across 4 orbital rings. AI health synthesis via GPT-4, Claude, and Gemini. Not a health app — a health engine. Live at **ailiv.health**.
 
 **[Memoir — Voice-to-Story AI Journaling](https://memoir.creativekonsoles.com)** &nbsp;`LIVE`  
 Speak your story. AI structures, preserves, and returns it as a living document. Voice-first journaling for people who think faster than they type. Live at **memoir.creativekonsoles.com**.
@@ -128,7 +128,7 @@ Physical MIDI control layer for Claude Code. Map a Korg nanoKONTROL2 to AI behav
 | Product | Status | URL |
 |---------|--------|-----|
 | 5i — Five Intelligences | ✅ Live | [creativekonsoles.com](https://creativekonsoles.com) |
-| AILIV — Biohacking Dashboard | ✅ Live | [grailorbital.creativekonsoles.com](https://grailorbital.creativekonsoles.com) |
+| AILIV — Biohacking Dashboard | ✅ Live | [ailiv.health](https://ailiv.health) |
 | Memoir — AI Journaling | ✅ Live | [memoir.creativekonsoles.com](https://memoir.creativekonsoles.com) |
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | DAW Doctor | ✅ Live | [dawdoctor.creativekonsoles.com](https://dawdoctor.creativekonsoles.com) |
