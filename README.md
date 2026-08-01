@@ -108,7 +108,7 @@ Auto-backup for Ableton Live. Continuous diff-aware versioning, instant restore 
 **💞 [WithYou](https://github.com/papjamzzz/empathybot)**
 Voice-first AI wellness companion. 12 support types — grief, trauma, anxiety, illness. CE listens, responds with empathy, speaks back.
 
-**⚖️ [Represented](https://github.com/papjamzzz/represented)**
+**⚖️ [Represented](https://represented.creativekonsoles.com)**
 AI legal platform for self-represented litigants. Upload motions, log incidents, build a case timeline, draft responses. The edge preparation gives you — without a lawyer.
 
 **₿ [Crypto Grid](https://github.com/papjamzzz/crypto-grid)**
@@ -133,7 +133,7 @@ Physical MIDI control layer for Claude Code. Map a Korg nanoKONTROL2 to AI behav
 | StreamFader | ✅ Live | [stream.creativekonsoles.com](https://stream.creativekonsoles.com) |
 | DAW Doctor | ✅ Live | [github.com/papjamzzz/producer-vault](https://github.com/papjamzzz/producer-vault) |
 | Control | ✅ Live | [github.com/papjamzzz/control](https://github.com/papjamzzz/control) |
-| Represented | ✅ Live | [github.com/papjamzzz/represented](https://github.com/papjamzzz/represented) |
+| Represented | ✅ Live | [represented.creativekonsoles.com](https://represented.creativekonsoles.com) |
 | Kode Keeper | ✅ Live | [github.com/papjamzzz/kodekeeper](https://github.com/papjamzzz/kodekeeper) |
 | Me-Chanic | ✅ Live | [me-chanic.vercel.app](https://me-chanic.vercel.app) |
 | KK Trader | ✅ Live | [github.com/papjamzzz/kalshi-trader](https://github.com/papjamzzz/kalshi-trader) |
